@@ -11,4 +11,5 @@ We can read the data stored in physical address using devmem command
 **Command to compile and run the code**
 
 gcc v2p.c -o v2p
+
 ./v2p
